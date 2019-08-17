@@ -75,3 +75,7 @@ div p {
 .listlink{
     display: block;
 }
+
+iframe{
+    border: none;
+}
